@@ -1,13 +1,7 @@
 ## Hi there 👋
-**Feterlike/Feterlike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
-Hi, I’m Feterlike.<br>⚡ Fun fact: I’m also an activist for the “Nothing Ever Happens” movement<br>because sometimes the most radical act is doing nothing at all!
+I’m Feterlike.
+⚡ Fun fact: I’m also an activist for the “Nothing Ever Happens” movement<br>because sometimes the most radical act is doing nothing at all!
 
 
 ## 🌐 Socials:
