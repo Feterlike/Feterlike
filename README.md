@@ -1,8 +1,5 @@
 ## Hi there 👋
-
 I’m Feterlike.
-⚡ Fun fact: I’m also an activist for the “Nothing Ever Happens” movement<br>because sometimes the most radical act is doing nothing at all!
-
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AVAmirVA) 
